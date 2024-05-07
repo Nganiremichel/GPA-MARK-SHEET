@@ -1,3 +1,16 @@
 # GPA-MARK-SHEET 
          THE BELOW IS THE MY APPLICATION INTERFACE WHICH CAN BE USE FOR ENTERING THE GPA MARKS FOR STUDENT
 ![screenshot](https://github.com/Nganiremichel/GPA-MARK-SHEET/blob/main/Screenshot%202024-05-07%20112959.jpg)
+
+     MY ABOVE APPLICATION INTERFACE HAS THE FOLLOWING COLOMN WHERE YOU ENTER THE MARKS OF STUDENT
+             1. THE INTERFACE HAS TWO WITH THE FOLLOWING LABEL ,ENTER CREDITS AND ENTER GRAGES 
+             2.THe CREDITS COLOMN HAS HAS FIVE ROW WITH BELOW LABEL
+                i. PYTHON
+                ii.MATH1
+                iii.MOTOR VEHICLE 
+                iv.VB.NET
+                v.STATISTIC
+                all of the above label has a textbox where the credits hour where the credithours of each course are enter
+
+             3. THE NEXT COLOMN COLOMN FOR THE ENTER GRAGES HAS ALSO FIVE ROW WITH FIVE COMBOBOX WHERE THE STUDENT GRAGES SCORE CAN BE SELETED FROM THE COMBOBOX.
+             INCONCLUSION :THE ABOVE APPLICA
