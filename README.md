@@ -1,3 +1,3 @@
 # GPA-MARK-SHEET 
          THE BELOW IS THE MY APPLICATION INTERFACE WHICH CAN BE USE FOR ENTERING THE GPA MARKS FOR STUDENT
-         ![screenshot]()
+         ![screenshot](https://github.com/Nganiremichel/GPA-MARK-SHEET/blob/main/Screenshot%202024-05-07%20112959.jpg)
